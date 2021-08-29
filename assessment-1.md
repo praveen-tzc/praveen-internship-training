@@ -1,4 +1,5 @@
 ## Programming week
+Complete 2 programs from the below three. Program 3 is mandatory. From Program 1/2 you can choose 1.
 
 ### Program 1
 Given a list of sentence as string. convert the alphabet characters to opposite case. Example `'a'` -> `'A'`, `'D'` -> `'d'`.<br>
